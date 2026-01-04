@@ -4,7 +4,6 @@ function _interopDefault (ex) { return (ex && (typeof ex === 'object') && 'defau
 
 var throttle = _interopDefault(require('lodash.throttle'));
 var debounce = _interopDefault(require('lodash.debounce'));
-
 var callback = function callback() {};
 
 function containsAOSNode(nodes) {
